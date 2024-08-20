@@ -1,0 +1,66 @@
+* {
+  background-color: aliceblue;
+}
+
+.userWord--letter {
+  margin-left: 8px;
+  font-size: 48px;
+}
+
+.container--column {
+  display: flex;
+  flex-direction: column;
+  width: 33%;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.container--row {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+}
+
+.UsedLetters--letter {
+  margin: 8px;
+  font-size: 20px;
+}
+
+.UsedLetters--container {
+  padding: 12px;
+  width: 33%;
+}
+
+.app--container {
+  margin: 48px;
+}
+
+.app--title {
+  font-size: 64px;
+  color: darkslateblue;
+}
+
+.WinOrLose--container {
+  font-size: 28px;
+}
+
+.Help--container {
+  width: 80%;
+}
+
+.Restart--button,
+.Help--button {
+  margin-top: 12px;
+  border-radius: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  background-color: lightblue;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Restart--button:hover,
+.Help--button:hover {
+  background-color: darkslateblue;
+}
