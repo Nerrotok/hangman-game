@@ -13,7 +13,7 @@ This game was built using react.js
 
 # Setting Up
 
-In order to run this program you will need to have npx and Node.js installed. If this is done, use the command line to go to the directory "hangman-game" and enter "npm start". After a short while the app should be running on localhost:3000.
+In order to run this program you will need to have npx and Node.js installed. If this is done, use the command line to go to the directory "hangman-game", install the dependencies with "npm install" and enter "npm start". After a short while the app should be running on localhost:3000.
 
 # Usage
 
