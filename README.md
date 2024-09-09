@@ -7,9 +7,9 @@ This game was built using react.js
 
 ## Table of Contents
 
-1.[**Setting Up**](#setting-up)
-2.[**Usage**](#usage)
-3.[**Credits**](#credits)
+1. [**Setting Up**](#setting-up)
+2. [**Usage**](#usage)
+3. [**Credits**](#credits)
 
 # Setting Up
 
